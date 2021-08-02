@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: site_name_to_be_replaced
+title: steveny
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://username_to_be_replaced.github.io/site_name_to_be_replaced
+url: https://yhf213.github.io/steveny
 permalink: :title/
 permalink_defaults:
 pretty_urls:
